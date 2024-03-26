@@ -108,3 +108,10 @@ footer{
     background-color: 88001B;
     color: white;
 }
+.userWelcomeMessage{
+    position: fixed;
+    left: 35%;
+    top:20%;
+    font-size: 30px;
+    color:88001B;
+}
