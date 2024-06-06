@@ -33,17 +33,17 @@ checkUserAnswers();
 /* When the home page is running you will do the following requirements in app.js:
 Alert a welcoming message with the name of the user and the title Mr if the user is male and Ms if the user is female, and if the gender input is not correct alert the welcoming message without the title, according to the confirmation.
 Continue working on the styling of the project. */
-function userNameTitle(){
-    if(userGender=="male"){
-        return ("Mr");
-    }
-    else if(userGender=="female"){
-        return ("Ms");
-    }
-    else{
-        return "";
-    }
-}
-if(userSkipConfirmation==false){
-    window.alert("Welcome "+userNameTitle()+" "+userName);
-}
+//function userNameTitle(){
+//    if(userGender=="male"){
+//        return ("Mr");
+//    }
+//    else if(userGender=="female"){
+//        return ("Ms");
+//    }
+//    else{
+//        return "";
+//    }
+//}
+//if(userSkipConfirmation==false){
+//    window.alert("Welcome "+userNameTitle()+" "+userName);
+//}
